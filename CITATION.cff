@@ -1,0 +1,62 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Enggano Etymological List
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - family-names: Krauße
+    given-names: Daniel
+    orcid: 'https://orcid.org/0000-0002-9340-6960'
+    affiliation: Centre National de la Recherche Scientifique
+    email: krausse.daniel@gmail.com
+  - given-names: Erik
+    family-names: Zobel
+    affiliation: Independent Researcher
+    email: erik.zobel69@gmail.com
+  - given-names: Bernd
+    family-names: Nothofer
+    affiliation: Goethe University Frankfurt
+    orcid: 'https://orcid.org/0000-0001-9772-6155'
+    email: bernd.nothofer@t-online.de
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: University of Oxford
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+repository-code: 'https://github.com/engganolang/enggano-etymological-list'
+abstract: >-
+  A repository of raw dataset underlying the EnoLEX lexical
+  database (https://doi.org/10.25446/oxford.28282169),
+  available online at https://enggano.shinyapps.io/enolex/.
+  The source codes and curated dataset for EnoLEX can be
+  accessed via https://doi.org/10.25446/oxford.28282946 or
+  its source repository on GitHub
+  (https://github.com/engganolang/enolex). The EnoLEX
+  database is described in the AsiaLex conference
+  presentation and proceedings paper
+  (https://doi.org/10.25446/oxford.27013864).
+keywords:
+  - Enggano
+  - Etymology
+  - Diachronic Dataset
+  - Endangered Language
+  - Indonesian Languages
+  - Austronesian
+  - EnoLEX
+  - Enggano Lexical Database
+  - Historical Lexical Dataset
+  - Diachronic Lexical Dataset
+  - Digital Heritage
+  - Digital Humanities
+  - Bahasa Enggano
+  - Humaniora Digital
+  - Data Leksikal Bahasa Enggano
+  - Data Historis Bahasa Enggano
+  - Proto-Austronesian
+  - Proto-Malayo-Polynesian
+license: CC-BY-NC-SA-4.0
+date-released: '2025-01-27'
