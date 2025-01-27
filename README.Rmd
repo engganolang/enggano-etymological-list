@@ -27,7 +27,7 @@ knitr::opts_chunk$set(
 
 This repository hosts the source dataset (in different file formats) underlying the [*EnoLEX* web application](https://doi.org/10.25446/oxford.28282169.v1), an online diachronic database for the Enggano language. The following is how to cite this repository.
 
-> Krauße, D., Zobel, E., Nothofer, B., & Rajeg, G. P. W. (2025). Enggano Etymological List [Data set]. https://github.com/engganolang/enggano-etymological-list
+> Krauße, D., Zobel, E., Nothofer, B., & Rajeg, G. P. W. (2024). Enggano Etymological List [Data set]. https://github.com/engganolang/enggano-etymological-list
 
 The R file ([`codes.R`](https://github.com/engganolang/enggano-etymological-list/blob/main/codes.R)) contains codes to transform the original .xlsx file into .rds (R Data file), .csv, and .tsv formats. The [.csv version is previewable and searchable](https://github.com/engganolang/enggano-etymological-list/blob/main/data-raw/Enggano-Etymological-List.csv).
 

@@ -46,7 +46,7 @@ application](https://doi.org/10.25446/oxford.28282169.v1), an online
 diachronic database for the Enggano language. The following is how to
 cite this repository.
 
-> Krauße, D., Zobel, E., Nothofer, B., & Rajeg, G. P. W. (2025). Enggano
+> Krauße, D., Zobel, E., Nothofer, B., & Rajeg, G. P. W. (2024). Enggano
 > Etymological List \[Data set\].
 > <https://github.com/engganolang/enggano-etymological-list>
 
