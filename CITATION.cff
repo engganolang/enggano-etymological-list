@@ -29,7 +29,7 @@ authors:
     orcid: 'https://orcid.org/0000-0002-2047-8621'
 repository-code: 'https://github.com/engganolang/enggano-etymological-list'
 abstract: >-
-  A repository of raw dataset underlying the EnoLEX lexical
+  A repository of source dataset underlying the EnoLEX lexical
   database (https://doi.org/10.25446/oxford.28282169),
   available online at https://enggano.shinyapps.io/enolex/.
   The source codes and curated dataset for EnoLEX can be
