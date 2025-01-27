@@ -50,9 +50,10 @@ cite this repository.
 > Etymological List \[Data set\].
 > <https://github.com/engganolang/enggano-etymological-list>
 
-The R code file (`codes.R`) in this repository contains script to
-transform the original .xlsx file into .rds (R Data file), .csv, and
-.tsv formats. The [.csv version is previewable and
+The R file
+([`codes.R`](https://github.com/engganolang/enggano-etymological-list/blob/main/codes.R))
+contains codes to transform the original .xlsx file into .rds (R Data
+file), .csv, and .tsv formats. The [.csv version is previewable and
 searchable](https://github.com/engganolang/enggano-etymological-list/blob/main/data-raw/Enggano-Etymological-List.csv).
 
 The source codes and the curated dataset for the *EnoLEX* web app are

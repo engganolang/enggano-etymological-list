@@ -29,6 +29,6 @@ This repository hosts the source dataset (in different file formats) underlying 
 
 > Krauße, D., Zobel, E., Nothofer, B., & Rajeg, G. P. W. (2025). Enggano Etymological List [Data set]. https://github.com/engganolang/enggano-etymological-list
 
-The R code file (`codes.R`) in this repository contains script to transform the original .xlsx file into .rds (R Data file), .csv, and .tsv formats. The [.csv version is previewable and searchable](https://github.com/engganolang/enggano-etymological-list/blob/main/data-raw/Enggano-Etymological-List.csv).
+The R file ([`codes.R`](https://github.com/engganolang/enggano-etymological-list/blob/main/codes.R)) contains codes to transform the original .xlsx file into .rds (R Data file), .csv, and .tsv formats. The [.csv version is previewable and searchable](https://github.com/engganolang/enggano-etymological-list/blob/main/data-raw/Enggano-Etymological-List.csv).
 
 The source codes and the curated dataset for the *EnoLEX* web app are hosted on [this GitHub repository](https://github.com/engganolang/enolex) and archived on the University of Oxford's [Sustainable Digital Scholarship (SDS)](https://doi.org/10.25446/oxford.28282946) repository.
